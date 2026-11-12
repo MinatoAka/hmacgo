@@ -32,10 +32,6 @@ Use `SignSHA512(payload, secret)` for HMAC-SHA512. `BuildQuery` sorts keys, URL-
 go test ./...
 ```
 
-## Support
-
-If you find this library useful, you can support its development via [Saweria](https://saweria.co/AKaAturDompet).
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
