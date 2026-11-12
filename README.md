@@ -31,7 +31,3 @@ Use `SignSHA512(payload, secret)` for HMAC-SHA512. `BuildQuery` sorts keys, URL-
 ```bash
 go test ./...
 ```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
