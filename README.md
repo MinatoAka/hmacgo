@@ -1,6 +1,7 @@
 # hmacgo
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/MinatoAka/hmacgo.svg)](https://pkg.go.dev/github.com/MinatoAka/hmacgo)
+[![Go](https://github.com/MinatoAka/hmacgo/actions/workflows/go.yml/badge.svg)](https://github.com/MinatoAka/hmacgo/actions/workflows/go.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Support via Saweria](https://img.shields.io/badge/Support-Saweria-orange)](https://saweria.co/AKaAturDompet)
 
