@@ -1,3 +1,3 @@
 module github.com/MinatoAka/hmacgo
 
-go 1.27.3
+go 1.24
